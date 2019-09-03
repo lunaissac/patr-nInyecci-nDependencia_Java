@@ -18,8 +18,6 @@ public class ServicioImpresion2 {
     }
 
     
-    
-    
     public class ServicioEnvio {
 
         public void enviar() {
